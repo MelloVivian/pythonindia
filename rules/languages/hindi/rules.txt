@@ -15,7 +15,6 @@
 
 "Hello" और अन्य सामाजिक बातें @PythonOfftopic में करें।
 Python tutorials / Courses / Books @PythonRes में उपलब्ध हैं।
-किसी व्यक्ति के Ban / Warn के निवेदन के लिए, @python_meta पर जाएं।
 
 @PythonOfftopic, और नेटवर्क के अन्य समूहों में समान नियम हैं जब तक कि स्पष्ट रूप से अन्यथा नहीं कहा गया हो।
 
